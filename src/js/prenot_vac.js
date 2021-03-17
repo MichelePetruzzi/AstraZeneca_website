@@ -1,0 +1,1 @@
+document.write("Prenota il vacino subbito")

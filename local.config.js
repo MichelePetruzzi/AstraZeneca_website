@@ -3,6 +3,6 @@ const path = require('path'),
       devEnv = NODE_ENV === 'development';
 
 const settings = {
-	publicPath: '/fe-bootstrap/'
+	publicPath: '/Starter/'
 }
 module.exports = settings
